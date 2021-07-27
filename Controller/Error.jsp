@@ -1,0 +1,1 @@
+<% response.sendRedirect("../View/Error.jsp");%>
